@@ -1,0 +1,2 @@
+gcc hide.c -o hide -I/usr/include/SDL -lSDL -lSDL_image -lpng
+gcc unhide.c -o unhide -I/usr/include/SDL -lSDL -lSDL_image -lpython2.7
